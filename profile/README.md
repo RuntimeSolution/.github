@@ -7,6 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-RuntimeSolution-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/runtimesolution)
+[![Collaborator](https://img.shields.io/badge/Partner-ZickRock-111111?style=flat-square&logo=isoc&logoColor=white)](https://github.com/ZickRock)
 [![Collaborator](https://img.shields.io/badge/Strategic%20Partner-QudsLab-111111?style=flat-square&logo=isoc&logoColor=white)](https://github.com/QudsLab)
 [![License](https://img.shields.io/badge/License-Apache%202.0-111111?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/Apache-2.0)
 
